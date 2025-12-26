@@ -4,7 +4,7 @@ Added a new file! (.org16 for use with the 16 tracks in OrgMaker 16, note: it'll
 Made the drams appear in ResourceHacker again.
 Made the error messages appear in normal textboxes again.
 
-Disabled MIDI and WAV Export for the time being, I fear it may cause an error with the 16 tracks.
+Disabled MIDI and WAV Export for the time being, I fear it may cause an error with the 16 tracks later on.
 
 	Goals:
 
@@ -15,3 +15,4 @@ Disabled MIDI and WAV Export for the time being, I fear it may cause an error wi
 		-Add a some Panning functions
 
 		-Stop it from setting back other tracks because one went over the frequency limit
+
